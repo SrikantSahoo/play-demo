@@ -1,0 +1,17 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": false,
+  "websites" : [
+    {
+      "url" : "https://insights.eu.newrelic.com/accounts/2165861/dashboards/1035?kiosk=true",
+      "duration" : 10,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url" : "https://insights.eu.newrelic.com/accounts/2165861/dashboards/1059?kiosk=true",
+      "duration" : 10,
+      "tabReloadIntervalSeconds": 15
+    }
+  ]
+}
